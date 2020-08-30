@@ -1,0 +1,17 @@
+{
+    "python.pythonPath": "/home/yyg/anaconda3/envs/torchEnv/bin/python",
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "*.cu": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "utility": "cpp"
+    }
+}
